@@ -1,0 +1,3 @@
+rootProject.name = "SecureViewerDp"
+include ':app'
+include ':secureViewerDp'
